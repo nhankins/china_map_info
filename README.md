@@ -15,6 +15,6 @@ You can run the html file in this directory to look at information about China a
    
 ## Each section includes:
 
-Mandarin Chinese (zh) — 1-2 sentences
-Full pinyin with tone marks (py)
-English translation (en)
+- Mandarin Chinese (zh) — 1-2 sentences
+- Full pinyin with tone marks (py)
+- English translation (en)
