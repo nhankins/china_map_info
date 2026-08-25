@@ -1,8 +1,8 @@
-#Overview
+# Overview
 You can run the html file in this directory to look at information about China and its provinces.
 
 
-#How it works:
+## How it works:
 
 1. Click any province/region on the map to open the side panel
 2. Click "📖 About this region · 本地介绍" to toggle the reader open/closed
@@ -13,7 +13,7 @@ You can run the html file in this directory to look at information about China a
 7. Reader resets when closing the panel
 
    
-#Each section includes:
+## Each section includes:
 
 Mandarin Chinese (zh) — 1-2 sentences
 Full pinyin with tone marks (py)
